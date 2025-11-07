@@ -1,0 +1,2821 @@
+fileFormatVersion: 2
+guid: 758caf5d16972a04ba915e6c2a2e8702
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7481530734727737065
+    second: cloaked-swordsman-FULL-spritesheet_0
+  - first:
+      213: -1236062098892403009
+    second: cloaked-swordsman-FULL-spritesheet_1
+  - first:
+      213: 5751540841932182591
+    second: cloaked-swordsman-FULL-spritesheet_2
+  - first:
+      213: -8780872215792629349
+    second: cloaked-swordsman-FULL-spritesheet_3
+  - first:
+      213: -3903733046401519619
+    second: cloaked-swordsman-FULL-spritesheet_4
+  - first:
+      213: -3415949839490022564
+    second: cloaked-swordsman-FULL-spritesheet_5
+  - first:
+      213: -2035838880890235387
+    second: cloaked-swordsman-FULL-spritesheet_6
+  - first:
+      213: -2282955152191035506
+    second: cloaked-swordsman-FULL-spritesheet_7
+  - first:
+      213: 4425623770743866172
+    second: cloaked-swordsman-FULL-spritesheet_8
+  - first:
+      213: 1850489187380783007
+    second: cloaked-swordsman-FULL-spritesheet_9
+  - first:
+      213: 6958135470672884234
+    second: cloaked-swordsman-FULL-spritesheet_10
+  - first:
+      213: -6681003990535592245
+    second: cloaked-swordsman-FULL-spritesheet_11
+  - first:
+      213: 4983777959094214847
+    second: cloaked-swordsman-FULL-spritesheet_12
+  - first:
+      213: 1478812553671000232
+    second: cloaked-swordsman-FULL-spritesheet_13
+  - first:
+      213: -5172778850079058955
+    second: cloaked-swordsman-FULL-spritesheet_14
+  - first:
+      213: 720101592937593385
+    second: cloaked-swordsman-FULL-spritesheet_15
+  - first:
+      213: 8189822249871014824
+    second: cloaked-swordsman-FULL-spritesheet_16
+  - first:
+      213: 580950270962245383
+    second: cloaked-swordsman-FULL-spritesheet_17
+  - first:
+      213: -176249529244083985
+    second: cloaked-swordsman-FULL-spritesheet_18
+  - first:
+      213: -7843674254126587255
+    second: cloaked-swordsman-FULL-spritesheet_19
+  - first:
+      213: 4911586772690602526
+    second: cloaked-swordsman-FULL-spritesheet_20
+  - first:
+      213: -5573742776709330949
+    second: cloaked-swordsman-FULL-spritesheet_21
+  - first:
+      213: 6794279597202225826
+    second: cloaked-swordsman-FULL-spritesheet_22
+  - first:
+      213: -5201382570355977209
+    second: cloaked-swordsman-FULL-spritesheet_23
+  - first:
+      213: 1592408100718132542
+    second: cloaked-swordsman-FULL-spritesheet_24
+  - first:
+      213: -8396235338195189904
+    second: cloaked-swordsman-FULL-spritesheet_25
+  - first:
+      213: -3721332064403212320
+    second: cloaked-swordsman-FULL-spritesheet_26
+  - first:
+      213: 3251295391763684484
+    second: cloaked-swordsman-FULL-spritesheet_27
+  - first:
+      213: -1021965031916200053
+    second: cloaked-swordsman-FULL-spritesheet_28
+  - first:
+      213: -6493902268849336612
+    second: cloaked-swordsman-FULL-spritesheet_29
+  - first:
+      213: -7091034207233803384
+    second: cloaked-swordsman-FULL-spritesheet_30
+  - first:
+      213: 3405393489581424571
+    second: cloaked-swordsman-FULL-spritesheet_31
+  - first:
+      213: -101599394751412012
+    second: cloaked-swordsman-FULL-spritesheet_32
+  - first:
+      213: 6422870365020623276
+    second: cloaked-swordsman-FULL-spritesheet_33
+  - first:
+      213: 4024451784668989186
+    second: cloaked-swordsman-FULL-spritesheet_34
+  - first:
+      213: 7095574360789706690
+    second: cloaked-swordsman-FULL-spritesheet_35
+  - first:
+      213: -5197001325201067438
+    second: cloaked-swordsman-FULL-spritesheet_36
+  - first:
+      213: 4241781458242901324
+    second: cloaked-swordsman-FULL-spritesheet_37
+  - first:
+      213: -7906166775373773936
+    second: cloaked-swordsman-FULL-spritesheet_38
+  - first:
+      213: -480524753048695301
+    second: cloaked-swordsman-FULL-spritesheet_39
+  - first:
+      213: -3402363973628505380
+    second: cloaked-swordsman-FULL-spritesheet_40
+  - first:
+      213: 4484146954940393238
+    second: cloaked-swordsman-FULL-spritesheet_41
+  - first:
+      213: 2287779219195317099
+    second: cloaked-swordsman-FULL-spritesheet_42
+  - first:
+      213: 6108536013139795159
+    second: cloaked-swordsman-FULL-spritesheet_43
+  - first:
+      213: -2633359839308202703
+    second: cloaked-swordsman-FULL-spritesheet_44
+  - first:
+      213: 2865396458677809496
+    second: cloaked-swordsman-FULL-spritesheet_45
+  - first:
+      213: 5224657433156266088
+    second: cloaked-swordsman-FULL-spritesheet_46
+  - first:
+      213: -4010887878321309823
+    second: cloaked-swordsman-FULL-spritesheet_47
+  - first:
+      213: -904301129124358209
+    second: cloaked-swordsman-FULL-spritesheet_48
+  - first:
+      213: -3006167434267004323
+    second: cloaked-swordsman-FULL-spritesheet_49
+  - first:
+      213: 5531279948179704258
+    second: cloaked-swordsman-FULL-spritesheet_50
+  - first:
+      213: -1552644002071352442
+    second: cloaked-swordsman-FULL-spritesheet_51
+  - first:
+      213: 2774074803853916379
+    second: cloaked-swordsman-FULL-spritesheet_52
+  - first:
+      213: -3853913556366794960
+    second: cloaked-swordsman-FULL-spritesheet_53
+  - first:
+      213: 7283795099770366908
+    second: cloaked-swordsman-FULL-spritesheet_54
+  - first:
+      213: 5638329113496433160
+    second: cloaked-swordsman-FULL-spritesheet_55
+  - first:
+      213: -394251727762066551
+    second: cloaked-swordsman-FULL-spritesheet_56
+  - first:
+      213: -5457326765340270883
+    second: cloaked-swordsman-FULL-spritesheet_57
+  - first:
+      213: 4235868702929909069
+    second: cloaked-swordsman-FULL-spritesheet_58
+  - first:
+      213: -4231172398560561076
+    second: cloaked-swordsman-FULL-spritesheet_59
+  - first:
+      213: -550323563426644613
+    second: cloaked-swordsman-FULL-spritesheet_60
+  - first:
+      213: -6393382182108250885
+    second: cloaked-swordsman-FULL-spritesheet_61
+  - first:
+      213: -2486395163613595395
+    second: cloaked-swordsman-FULL-spritesheet_62
+  - first:
+      213: 2530672233685359964
+    second: cloaked-swordsman-FULL-spritesheet_63
+  - first:
+      213: 4768959170703735715
+    second: cloaked-swordsman-FULL-spritesheet_64
+  - first:
+      213: -2253742065708161145
+    second: cloaked-swordsman-FULL-spritesheet_65
+  - first:
+      213: 363260067632351754
+    second: cloaked-swordsman-FULL-spritesheet_66
+  - first:
+      213: -5216046861037848028
+    second: cloaked-swordsman-FULL-spritesheet_67
+  - first:
+      213: -4991436438215025698
+    second: cloaked-swordsman-FULL-spritesheet_68
+  - first:
+      213: -6850404541322745708
+    second: cloaked-swordsman-FULL-spritesheet_69
+  - first:
+      213: 5670264324325514070
+    second: cloaked-swordsman-FULL-spritesheet_70
+  - first:
+      213: 5519177354116794571
+    second: cloaked-swordsman-FULL-spritesheet_71
+  - first:
+      213: -7969435880696916767
+    second: cloaked-swordsman-FULL-spritesheet_72
+  - first:
+      213: -3585772743917693935
+    second: cloaked-swordsman-FULL-spritesheet_73
+  - first:
+      213: -400779583622924730
+    second: cloaked-swordsman-FULL-spritesheet_74
+  - first:
+      213: 828137191605733516
+    second: cloaked-swordsman-FULL-spritesheet_75
+  - first:
+      213: -366922751884162006
+    second: cloaked-swordsman-FULL-spritesheet_76
+  - first:
+      213: 3597934402238965240
+    second: cloaked-swordsman-FULL-spritesheet_77
+  - first:
+      213: -799235587826141738
+    second: cloaked-swordsman-FULL-spritesheet_78
+  - first:
+      213: 2334446698705423960
+    second: cloaked-swordsman-FULL-spritesheet_79
+  - first:
+      213: -6486155101378943683
+    second: cloaked-swordsman-FULL-spritesheet_80
+  - first:
+      213: -4060903524817510160
+    second: cloaked-swordsman-FULL-spritesheet_81
+  - first:
+      213: 6148966769993422748
+    second: cloaked-swordsman-FULL-spritesheet_82
+  - first:
+      213: -3614844542442557975
+    second: cloaked-swordsman-FULL-spritesheet_83
+  - first:
+      213: 8356326657274145797
+    second: cloaked-swordsman-FULL-spritesheet_84
+  - first:
+      213: -4481044151437708687
+    second: cloaked-swordsman-FULL-spritesheet_85
+  - first:
+      213: 6376300056823142656
+    second: cloaked-swordsman-FULL-spritesheet_86
+  - first:
+      213: -4539206702349196944
+    second: cloaked-swordsman-FULL-spritesheet_87
+  - first:
+      213: -6668249034352387575
+    second: cloaked-swordsman-FULL-spritesheet_88
+  - first:
+      213: 3240084434491580289
+    second: cloaked-swordsman-FULL-spritesheet_89
+  - first:
+      213: -1611196844832583777
+    second: cloaked-swordsman-FULL-spritesheet_90
+  - first:
+      213: 1809362525844455107
+    second: cloaked-swordsman-FULL-spritesheet_91
+  - first:
+      213: 6624333603291745685
+    second: cloaked-swordsman-FULL-spritesheet_92
+  - first:
+      213: 9153186030370904005
+    second: cloaked-swordsman-FULL-spritesheet_93
+  - first:
+      213: 3073764882819867796
+    second: cloaked-swordsman-FULL-spritesheet_94
+  - first:
+      213: -9135013836827759668
+    second: cloaked-swordsman-FULL-spritesheet_95
+  - first:
+      213: 5256202974063214312
+    second: cloaked-swordsman-FULL-spritesheet_96
+  - first:
+      213: -6567845053086599518
+    second: cloaked-swordsman-FULL-spritesheet_97
+  - first:
+      213: -1014931131115747169
+    second: cloaked-swordsman-FULL-spritesheet_98
+  - first:
+      213: 4577939467370666625
+    second: cloaked-swordsman-FULL-spritesheet_99
+  - first:
+      213: 3408471701916626812
+    second: cloaked-swordsman-FULL-spritesheet_100
+  - first:
+      213: 4424245910154556862
+    second: cloaked-swordsman-FULL-spritesheet_101
+  - first:
+      213: -6673258759178706902
+    second: cloaked-swordsman-FULL-spritesheet_102
+  - first:
+      213: -2802970085124069202
+    second: cloaked-swordsman-FULL-spritesheet_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 464
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee2d9b709cb3d760800000000000000
+      internalID: 7481530734727737065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 464
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbec13be110a8dee0800000000000000
+      internalID: -1236062098892403009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 464
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34d48a3ce391df40800000000000000
+      internalID: 5751540841932182591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 464
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9945972e33142680800000000000000
+      internalID: -8780872215792629349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 464
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffa8472a7723d9c0800000000000000
+      internalID: -3903733046401519619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 464
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305ae28bb1890d0800000000000000
+      internalID: -3415949839490022564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 464
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506db9cf25f3fb3e0800000000000000
+      internalID: -2035838880890235387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 433
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87618b72605150e0800000000000000
+      internalID: -2282955152191035506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 433
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3386bc1f59fa6d30800000000000000
+      internalID: 4425623770743866172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 433
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9768829c124ea910800000000000000
+      internalID: 1850489187380783007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 433
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02b0844853409060800000000000000
+      internalID: 6958135470672884234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 433
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6a821a44e4843a0800000000000000
+      internalID: -6681003990535592245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 433
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb06b3b06afe92540800000000000000
+      internalID: 4983777959094214847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 402
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0c2f6be2cc58410800000000000000
+      internalID: 1478812553671000232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 404
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3526bda099638b0800000000000000
+      internalID: -5172778850079058955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 402
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92afc3165905ef900800000000000000
+      internalID: 720101592937593385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 402
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abf629d1f718a170800000000000000
+      internalID: 8189822249871014824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 404
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f1fd48133ff0800800000000000000
+      internalID: 580950270962245383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 402
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe89399acf5dd8df0800000000000000
+      internalID: -176249529244083985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 371
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98268ecc2dba52390800000000000000
+      internalID: -7843674254126587255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 371
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a0bb5a526792440800000000000000
+      internalID: 4911586772690602526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 371
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf747dcb97616a2b0800000000000000
+      internalID: -5573742776709330949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 371
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa3ce7cb412a4e50800000000000000
+      internalID: 6794279597202225826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 371
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70416014c1af0d7b0800000000000000
+      internalID: -5201382570355977209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 371
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d32cc0bbe591610800000000000000
+      internalID: 1592408100718132542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 371
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f3b40f1749a7b80800000000000000
+      internalID: -8396235338195189904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 371
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7b9f1343c2b5cc0800000000000000
+      internalID: -3721332064403212320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 371
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c50f5ceebee1d20800000000000000
+      internalID: 3251295391763684484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 371
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f93c3d73041d1f0800000000000000
+      internalID: -1021965031916200053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 371
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdec12bea4601e5a0800000000000000
+      internalID: -6493902268849336612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 340
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b7fab55f5979d90800000000000000
+      internalID: -7091034207233803384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 340
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfbde21653624f20800000000000000
+      internalID: 3405393489581424571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 340
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8827683eb079ef0800000000000000
+      internalID: -101599394751412012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 340
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca11071319e922950800000000000000
+      internalID: 6422870365020623276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 340
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207c1e06399b9d730800000000000000
+      internalID: 4024451784668989186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 340
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c76d34894b887260800000000000000
+      internalID: 7095574360789706690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 309
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252f72264da80e7b0800000000000000
+      internalID: -5197001325201067438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 309
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45186923c5ddda30800000000000000
+      internalID: 4241781458242901324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 309
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093c9dad437a74290800000000000000
+      internalID: -7906166775373773936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 309
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd00c47845d459f0800000000000000
+      internalID: -480524753048695301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 309
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd259431eff58c0d0800000000000000
+      internalID: -3402363973628505380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 309
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6172fd1c5e3ea3e30800000000000000
+      internalID: 4484146954940393238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 309
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b48a42413dfbf10800000000000000
+      internalID: 2287779219195317099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 278
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcd0e8b321e5c450800000000000000
+      internalID: 6108536013139795159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 278
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d3144ad2d647bd0800000000000000
+      internalID: -2633359839308202703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 278
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851372cc5eee3c720800000000000000
+      internalID: 2865396458677809496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 278
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86822680146b18840800000000000000
+      internalID: 5224657433156266088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 247
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187fcbaa9b67658c0800000000000000
+      internalID: -4010887878321309823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 247
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7de8c0ae64373f0800000000000000
+      internalID: -904301129124358209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 247
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52fa2955a2f746d0800000000000000
+      internalID: -3006167434267004323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 247
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c90e709ecd03cc40800000000000000
+      internalID: 5531279948179704258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 247
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b65e1a186e37ae0800000000000000
+      internalID: -1552644002071352442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 247
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8f210265e7f7620800000000000000
+      internalID: 2774074803853916379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 216
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fd1b51a06248ac0800000000000000
+      internalID: -3853913556366794960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 222
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb2b825d0d351560800000000000000
+      internalID: 7283795099770366908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 216
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802b2b0a47e5f3e40800000000000000
+      internalID: 5638329113496433160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 216
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98378a67426578af0800000000000000
+      internalID: -394251727762066551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 216
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde59a8983ea344b0800000000000000
+      internalID: -5457326765340270883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 185
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45f4598424d8ca30800000000000000
+      internalID: 4235868702929909069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 185
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c483c580f1bd745c0800000000000000
+      internalID: -4231172398560561076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 185
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d7d6282abdc58f0800000000000000
+      internalID: -550323563426644613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 185
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc302a67c42647a0800000000000000
+      internalID: -6393382182108250885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 185
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8ff8da5cc8e7dd0800000000000000
+      internalID: -2486395163613595395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 185
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d92cb0df0ce1320800000000000000
+      internalID: 2530672233685359964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 185
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab3326491fbe2240800000000000000
+      internalID: 4768959170703735715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 185
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7872c16388919b0e0800000000000000
+      internalID: -2253742065708161145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 185
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a8f4c5b1f8a0500800000000000000
+      internalID: 363260067632351754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a3c040401ec97b0800000000000000
+      internalID: -5216046861037848028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 154
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb9045510bdabab0800000000000000
+      internalID: -4991436438215025698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 154
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4982cba5d597ee0a0800000000000000
+      internalID: -6850404541322745708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 154
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b1ef15c53d0be40800000000000000
+      internalID: 5670264324325514070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 154
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8038ccf8e089c40800000000000000
+      internalID: 5519177354116794571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 154
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4dec65a40e66190800000000000000
+      internalID: -7969435880696916767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 123
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114128900b6cc3ec0800000000000000
+      internalID: -3585772743917693935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 123
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6463de49715207af0800000000000000
+      internalID: -400779583622924730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 123
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8803fa53622e7b00800000000000000
+      internalID: 828137191605733516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 123
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c8fe183bd68eaf0800000000000000
+      internalID: -366922751884162006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 92
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f56c92b64e6ee130800000000000000
+      internalID: 3597934402238965240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 92
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5b5c7a77b88e4f0800000000000000
+      internalID: -799235587826141738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 115
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e8b6f67ee956020800000000000000
+      internalID: 2334446698705423960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 92
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d356838ec4c8cf5a0800000000000000
+      internalID: -6486155101378943683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 92
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0ee1082c5c4a7c0800000000000000
+      internalID: -4060903524817510160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 92
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97932dd2b4855550800000000000000
+      internalID: 6148966769993422748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 92
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eda3797a0e75ddc0800000000000000
+      internalID: -3614844542442557975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 61
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ce3f132d2a7f370800000000000000
+      internalID: 8356326657274145797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 61
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172b6baf51220d1c0800000000000000
+      internalID: -4481044151437708687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 61
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0091f3c5e1b2d7850800000000000000
+      internalID: 6376300056823142656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 61
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0716760dd8f7101c0800000000000000
+      internalID: -4539206702349196944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 61
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a959945de9573a0800000000000000
+      internalID: -6668249034352387575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 61
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f942060a717fc20800000000000000
+      internalID: 3240084434491580289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 61
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f06809101e3a9e0800000000000000
+      internalID: -1611196844832583777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 61
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cebcde71a52c1910800000000000000
+      internalID: 1809362525844455107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 30
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d43e1a05c5eeb50800000000000000
+      internalID: 6624333603291745685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 30
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7535fe236a60f70800000000000000
+      internalID: 9153186030370904005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4946c8b10e438aa20800000000000000
+      internalID: 3073764882819867796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb6a959059e93180800000000000000
+      internalID: -9135013836827759668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeb360a1c8c1f840800000000000000
+      internalID: 5256202974063214312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a677fed8b35ad4a0800000000000000
+      internalID: -6567845053086599518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f984c5a738d3ae1f0800000000000000
+      internalID: -1014931131115747169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a9edbc0bb188f30800000000000000
+      internalID: 4577939467370666625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f26bb34f25d4f20800000000000000
+      internalID: 3408471701916626812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5bcb1f634166d30800000000000000
+      internalID: 4424245910154556862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20a3e4d382d363a0800000000000000
+      internalID: -6673258759178706902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloaked-swordsman-FULL-spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea82220fe89d919d0800000000000000
+      internalID: -2802970085124069202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cloaked-swordsman-FULL-spritesheet_0: 7481530734727737065
+      cloaked-swordsman-FULL-spritesheet_1: -1236062098892403009
+      cloaked-swordsman-FULL-spritesheet_10: 6958135470672884234
+      cloaked-swordsman-FULL-spritesheet_100: 3408471701916626812
+      cloaked-swordsman-FULL-spritesheet_101: 4424245910154556862
+      cloaked-swordsman-FULL-spritesheet_102: -6673258759178706902
+      cloaked-swordsman-FULL-spritesheet_103: -2802970085124069202
+      cloaked-swordsman-FULL-spritesheet_11: -6681003990535592245
+      cloaked-swordsman-FULL-spritesheet_12: 4983777959094214847
+      cloaked-swordsman-FULL-spritesheet_13: 1478812553671000232
+      cloaked-swordsman-FULL-spritesheet_14: -5172778850079058955
+      cloaked-swordsman-FULL-spritesheet_15: 720101592937593385
+      cloaked-swordsman-FULL-spritesheet_16: 8189822249871014824
+      cloaked-swordsman-FULL-spritesheet_17: 580950270962245383
+      cloaked-swordsman-FULL-spritesheet_18: -176249529244083985
+      cloaked-swordsman-FULL-spritesheet_19: -7843674254126587255
+      cloaked-swordsman-FULL-spritesheet_2: 5751540841932182591
+      cloaked-swordsman-FULL-spritesheet_20: 4911586772690602526
+      cloaked-swordsman-FULL-spritesheet_21: -5573742776709330949
+      cloaked-swordsman-FULL-spritesheet_22: 6794279597202225826
+      cloaked-swordsman-FULL-spritesheet_23: -5201382570355977209
+      cloaked-swordsman-FULL-spritesheet_24: 1592408100718132542
+      cloaked-swordsman-FULL-spritesheet_25: -8396235338195189904
+      cloaked-swordsman-FULL-spritesheet_26: -3721332064403212320
+      cloaked-swordsman-FULL-spritesheet_27: 3251295391763684484
+      cloaked-swordsman-FULL-spritesheet_28: -1021965031916200053
+      cloaked-swordsman-FULL-spritesheet_29: -6493902268849336612
+      cloaked-swordsman-FULL-spritesheet_3: -8780872215792629349
+      cloaked-swordsman-FULL-spritesheet_30: -7091034207233803384
+      cloaked-swordsman-FULL-spritesheet_31: 3405393489581424571
+      cloaked-swordsman-FULL-spritesheet_32: -101599394751412012
+      cloaked-swordsman-FULL-spritesheet_33: 6422870365020623276
+      cloaked-swordsman-FULL-spritesheet_34: 4024451784668989186
+      cloaked-swordsman-FULL-spritesheet_35: 7095574360789706690
+      cloaked-swordsman-FULL-spritesheet_36: -5197001325201067438
+      cloaked-swordsman-FULL-spritesheet_37: 4241781458242901324
+      cloaked-swordsman-FULL-spritesheet_38: -7906166775373773936
+      cloaked-swordsman-FULL-spritesheet_39: -480524753048695301
+      cloaked-swordsman-FULL-spritesheet_4: -3903733046401519619
+      cloaked-swordsman-FULL-spritesheet_40: -3402363973628505380
+      cloaked-swordsman-FULL-spritesheet_41: 4484146954940393238
+      cloaked-swordsman-FULL-spritesheet_42: 2287779219195317099
+      cloaked-swordsman-FULL-spritesheet_43: 6108536013139795159
+      cloaked-swordsman-FULL-spritesheet_44: -2633359839308202703
+      cloaked-swordsman-FULL-spritesheet_45: 2865396458677809496
+      cloaked-swordsman-FULL-spritesheet_46: 5224657433156266088
+      cloaked-swordsman-FULL-spritesheet_47: -4010887878321309823
+      cloaked-swordsman-FULL-spritesheet_48: -904301129124358209
+      cloaked-swordsman-FULL-spritesheet_49: -3006167434267004323
+      cloaked-swordsman-FULL-spritesheet_5: -3415949839490022564
+      cloaked-swordsman-FULL-spritesheet_50: 5531279948179704258
+      cloaked-swordsman-FULL-spritesheet_51: -1552644002071352442
+      cloaked-swordsman-FULL-spritesheet_52: 2774074803853916379
+      cloaked-swordsman-FULL-spritesheet_53: -3853913556366794960
+      cloaked-swordsman-FULL-spritesheet_54: 7283795099770366908
+      cloaked-swordsman-FULL-spritesheet_55: 5638329113496433160
+      cloaked-swordsman-FULL-spritesheet_56: -394251727762066551
+      cloaked-swordsman-FULL-spritesheet_57: -5457326765340270883
+      cloaked-swordsman-FULL-spritesheet_58: 4235868702929909069
+      cloaked-swordsman-FULL-spritesheet_59: -4231172398560561076
+      cloaked-swordsman-FULL-spritesheet_6: -2035838880890235387
+      cloaked-swordsman-FULL-spritesheet_60: -550323563426644613
+      cloaked-swordsman-FULL-spritesheet_61: -6393382182108250885
+      cloaked-swordsman-FULL-spritesheet_62: -2486395163613595395
+      cloaked-swordsman-FULL-spritesheet_63: 2530672233685359964
+      cloaked-swordsman-FULL-spritesheet_64: 4768959170703735715
+      cloaked-swordsman-FULL-spritesheet_65: -2253742065708161145
+      cloaked-swordsman-FULL-spritesheet_66: 363260067632351754
+      cloaked-swordsman-FULL-spritesheet_67: -5216046861037848028
+      cloaked-swordsman-FULL-spritesheet_68: -4991436438215025698
+      cloaked-swordsman-FULL-spritesheet_69: -6850404541322745708
+      cloaked-swordsman-FULL-spritesheet_7: -2282955152191035506
+      cloaked-swordsman-FULL-spritesheet_70: 5670264324325514070
+      cloaked-swordsman-FULL-spritesheet_71: 5519177354116794571
+      cloaked-swordsman-FULL-spritesheet_72: -7969435880696916767
+      cloaked-swordsman-FULL-spritesheet_73: -3585772743917693935
+      cloaked-swordsman-FULL-spritesheet_74: -400779583622924730
+      cloaked-swordsman-FULL-spritesheet_75: 828137191605733516
+      cloaked-swordsman-FULL-spritesheet_76: -366922751884162006
+      cloaked-swordsman-FULL-spritesheet_77: 3597934402238965240
+      cloaked-swordsman-FULL-spritesheet_78: -799235587826141738
+      cloaked-swordsman-FULL-spritesheet_79: 2334446698705423960
+      cloaked-swordsman-FULL-spritesheet_8: 4425623770743866172
+      cloaked-swordsman-FULL-spritesheet_80: -6486155101378943683
+      cloaked-swordsman-FULL-spritesheet_81: -4060903524817510160
+      cloaked-swordsman-FULL-spritesheet_82: 6148966769993422748
+      cloaked-swordsman-FULL-spritesheet_83: -3614844542442557975
+      cloaked-swordsman-FULL-spritesheet_84: 8356326657274145797
+      cloaked-swordsman-FULL-spritesheet_85: -4481044151437708687
+      cloaked-swordsman-FULL-spritesheet_86: 6376300056823142656
+      cloaked-swordsman-FULL-spritesheet_87: -4539206702349196944
+      cloaked-swordsman-FULL-spritesheet_88: -6668249034352387575
+      cloaked-swordsman-FULL-spritesheet_89: 3240084434491580289
+      cloaked-swordsman-FULL-spritesheet_9: 1850489187380783007
+      cloaked-swordsman-FULL-spritesheet_90: -1611196844832583777
+      cloaked-swordsman-FULL-spritesheet_91: 1809362525844455107
+      cloaked-swordsman-FULL-spritesheet_92: 6624333603291745685
+      cloaked-swordsman-FULL-spritesheet_93: 9153186030370904005
+      cloaked-swordsman-FULL-spritesheet_94: 3073764882819867796
+      cloaked-swordsman-FULL-spritesheet_95: -9135013836827759668
+      cloaked-swordsman-FULL-spritesheet_96: 5256202974063214312
+      cloaked-swordsman-FULL-spritesheet_97: -6567845053086599518
+      cloaked-swordsman-FULL-spritesheet_98: -1014931131115747169
+      cloaked-swordsman-FULL-spritesheet_99: 4577939467370666625
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
