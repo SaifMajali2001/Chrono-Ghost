@@ -8,7 +8,10 @@ public class MainMenuManager : MonoBehaviour
     {
         SceneManager.LoadScene("Hub Room");
     }
-
+    public void MainMenu()
+    {
+        SceneManager.LoadScene("Main Menu");
+    }
     public void QuitGame()
     {
         Application.Quit();

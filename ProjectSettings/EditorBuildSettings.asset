@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Hub Room.unity
     guid: d128285b09c340f4ba5dea6165a639ee
+  - enabled: 1
+    path: Assets/Scenes/Lvl1.unity
+    guid: 57ec8e2f6c99ab54b85f0cc8f95ff303
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: cc0a84dd48a3ae14a89fdd09f7ba2859
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 2d51fe8be2c0df84cab35c153fc704bf, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

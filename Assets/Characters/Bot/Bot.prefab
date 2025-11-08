@@ -14,8 +14,9 @@ GameObject:
   - component: {fileID: 5800319569729820011}
   - component: {fileID: 3710653685513673423}
   - component: {fileID: 951634211395223314}
+  - component: {fileID: 3129393492614010310}
   m_Layer: 0
-  m_Name: Skull
+  m_Name: Bot
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83,7 +84,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -6389507293179701057, guid: a2eb077552830c240ad981dce2e6bd23, type: 3}
+  m_Sprite: {fileID: 1028906776217498605, guid: 3325b90748e3fab4994a5f1a87e6397e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -170,7 +171,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54b760d77debfac45ba1bb45cc036e1a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  health: 1
+  health: 9
 --- !u!95 &951634211395223314
 Animator:
   serializedVersion: 7
@@ -181,7 +182,7 @@ Animator:
   m_GameObject: {fileID: 203166761086951948}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 4d19eb700d3247542949aca849c4c96f, type: 2}
+  m_Controller: {fileID: 9100000, guid: 087c21cf208a26749aab5cd61a62b91e, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -193,3 +194,17 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &3129393492614010310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 203166761086951948}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa213bb2a48261440a40fee87fcf68f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FlashEffect
+  flashColor: {r: 0.82641506, g: 0.17931636, b: 0.17931636, a: 1}
+  flashDuration: 0.1

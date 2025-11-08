@@ -3,6 +3,7 @@ using UnityEngine.UIElements.Experimental;
 
 public class Enemy : MonoBehaviour
 {
+    Animator animator;
     public float health = 1;
     public float Health
     {
@@ -20,8 +21,17 @@ public class Enemy : MonoBehaviour
         }
 
     }
+    public void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
 
     void Die()
+    {
+      animator.SetTrigger("Die");
+    }
+
+    public void RemoveEnemy()
     {
         Destroy(gameObject);
     }
