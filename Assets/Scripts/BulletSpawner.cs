@@ -35,13 +35,10 @@ public class BulletSpawner : MonoBehaviour
     {
         if(bulletPrefab)
         {
-            // Instantiate using the spawner's rotation so the prefab's art/forward matches
             spawnedBullet = Instantiate(bulletPrefab, transform.position, transform.rotation);
 
-            // Preserve prefab's local scale (in case instantiating changed it)
             spawnedBullet.transform.localScale = bulletPrefab.transform.localScale;
 
-            // Set bullet properties on the Bullet component if it exists
             Bullet bulletComp = spawnedBullet.GetComponent<Bullet>();
             if (bulletComp != null)
             {

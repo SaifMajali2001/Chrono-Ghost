@@ -9,7 +9,6 @@ public class FlashEffect : MonoBehaviour
 
     void Awake()
     {
-        // Try to find a SpriteRenderer on this object or its children
         spriteRenderer = GetComponent<SpriteRenderer>();
         if (spriteRenderer == null)
             spriteRenderer = GetComponentInChildren<SpriteRenderer>();
@@ -20,13 +19,11 @@ public class FlashEffect : MonoBehaviour
         }
     }
 
-    // Flash using the serialized default duration
     public void Flash()
     {
         Flash(flashDuration);
     }
 
-    // Flash for a custom duration
     public void Flash(float duration)
     {
         if (spriteRenderer != null)

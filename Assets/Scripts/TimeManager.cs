@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using UnityEngine.InputSystem;
 
 public class TimeManager : MonoBehaviour
 {
@@ -21,16 +22,24 @@ public class TimeManager : MonoBehaviour
         }
     }
 
+    [Header("Time Slow Settings")]
+    [SerializeField] [Range(0.1f, 1f)] private float slowMotionTimeScale = 0.5f;
+    
+    [Header("Stamina Settings")]
+    [SerializeField] private float maxStamina = 100f;
+    [SerializeField] private float staminaDrainRate = 30f;
+    [SerializeField] private float staminaRechargeRate = 20f;
+    [SerializeField] private float staminaRechargeDelay = 1f;
+
+    private float currentStamina;
+    private bool isSlowMotionActive;
+    private float lastSlowMotionTime;
+
     [Header("Hitstop Settings")]
-    [Tooltip("How long the hitstop lasts (seconds, real-time)")]
     [SerializeField] private float defaultHitstopDuration = 0.1f;
 
-    [Tooltip("Time scale to set during hitstop (0 = freeze, 1 = normal)")]
     [SerializeField] [Range(0f, 1f)] private float hitstopTimeScale = 0.05f;
 
-    /// <summary>
-    /// Triggers a hitstop. If duration is <= 0 the serialized default is used.
-    /// </summary>
     public void DoHitstop(float duration = -1f)
     {
         if (duration <= 0f)
@@ -45,5 +54,67 @@ public class TimeManager : MonoBehaviour
         Time.timeScale = hitstopTimeScale;
         yield return new WaitForSecondsRealtime(duration);
         Time.timeScale = previousTimeScale;
+    }
+
+    private void Awake()
+    {
+        currentStamina = maxStamina;
+    }
+
+    private void Update()
+    {
+        bool slowMotionInput = Keyboard.current.leftShiftKey.isPressed;
+        
+        if (slowMotionInput && currentStamina > 0)
+        {
+            ActivateSlowMotion();
+        }
+        else
+        {
+            DeactivateSlowMotion();
+        }
+
+        UpdateStamina();
+    }
+
+    private void ActivateSlowMotion()
+    {
+        if (!isSlowMotionActive)
+        {
+            Time.timeScale = slowMotionTimeScale;
+            isSlowMotionActive = true;
+        }
+    }
+
+    private void DeactivateSlowMotion()
+    {
+        if (isSlowMotionActive)
+        {
+            Time.timeScale = 1f;
+            isSlowMotionActive = false;
+            lastSlowMotionTime = Time.unscaledTime;
+        }
+    }
+
+    private void UpdateStamina()
+    {
+        if (isSlowMotionActive)
+        {
+            currentStamina = Mathf.Max(0f, currentStamina - staminaDrainRate * Time.unscaledDeltaTime);
+            
+            if (currentStamina <= 0f)
+            {
+                DeactivateSlowMotion();
+            }
+        }
+        else if (Time.unscaledTime >= lastSlowMotionTime + staminaRechargeDelay)
+        {
+            currentStamina = Mathf.Min(maxStamina, currentStamina + staminaRechargeRate * Time.unscaledDeltaTime);
+        }
+    }
+
+    public float GetStaminaPercentage()
+    {
+        return currentStamina / maxStamina;
     }
 }

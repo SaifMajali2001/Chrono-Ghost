@@ -9,7 +9,6 @@ public class Interation : MonoBehaviour
 
     private void Start()
     {
-        // Hide message panel at start
         if (messagePanel != null)
             messagePanel.SetActive(false);
     }
@@ -18,7 +17,6 @@ public class Interation : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            // Show message when player enters trigger
             if (messagePanel != null)
                 messagePanel.SetActive(true);
             if (messageText != null)
@@ -30,7 +28,6 @@ public class Interation : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            // Hide message when player exits trigger
             if (messagePanel != null)
                 messagePanel.SetActive(false);
         }

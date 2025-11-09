@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 3129393492614010310}
   - component: {fileID: 6626715312969175277}
   m_Layer: 0
-  m_Name: Bot
+  m_Name: Harder Bot
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -87,7 +87,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 1028906776217498605, guid: 3325b90748e3fab4994a5f1a87e6397e, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.3658597, g: 0.62250805, b: 0.90188676, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -173,7 +173,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54b760d77debfac45ba1bb45cc036e1a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  health: 1
+  health: 2
   deathAnimationLength: 0.9
 --- !u!95 &951634211395223314
 Animator:
@@ -227,7 +227,7 @@ MonoBehaviour:
   stoppingDistance: 1
   retreatDistance: 0
   shootingRange: 10
-  timeBetweenShots: 2.5
+  timeBetweenShots: 2
   bulletPrefab: {fileID: 3511540717015400296, guid: 41ba68edad59a194bbd5c51d5a3d6849, type: 3}
   firePoint: {fileID: 226181368593792388}
 --- !u!1 &7919223979725005611

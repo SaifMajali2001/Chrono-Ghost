@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 6398825693667576515}
   - component: {fileID: 1809587685236477783}
   - component: {fileID: 5087095678848216286}
+  - component: {fileID: 8366105049504050363}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -229,7 +230,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.0035491139, y: -0.020853199}
+  m_Offset: {x: 0.015258995, y: -0.020853199}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -239,7 +240,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.13410744, y: 0.13269572}
+  m_Size: {x: 0.07321579, y: 0.13269572}
   m_EdgeRadius: 0
 --- !u!95 &5087095678848216286
 Animator:
@@ -263,6 +264,24 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &8366105049504050363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1397342443830831207}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad26419a15591514595bbe4574043aef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
+  maxHealth: 3
+  invincibilityDuration: 1
+  invincibilityBlinkRate: 0.1
+  animator: {fileID: 5087095678848216286}
+  hubSceneName: Hub Room
+  restartDelay: 2
 --- !u!1 &4002371641359539880
 GameObject:
   m_ObjectHideFlags: 0
@@ -357,4 +376,4 @@ MonoBehaviour:
   damage: 1
   hitDelay: 0.12
   activeWindow: 0.08
-  effectDelay: 0
+  effectDelay: 0.2

@@ -30,14 +30,12 @@ public class Pause : MonoBehaviour
     private void OnEnable()
     {
         playerInput.Enable();
-        // Listen for just the Pause action
         playerInput.UI.Pause.performed += OnPausePerformed;
         Debug.Log("Input system enabled");
     }
 
     private void OnDisable()
     {
-        // Remove the Pause listener
         playerInput.UI.Pause.performed -= OnPausePerformed;
         playerInput.Disable();
     }

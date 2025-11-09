@@ -12,7 +12,6 @@ public class DoorTrigger : MonoBehaviour
 
     private void Reset()
     {
-        // If this component is added in the editor, ensure there's a Collider2D and it's a trigger
         var col = GetComponent<Collider2D>();
         if (col != null)
             col.isTrigger = true;
@@ -29,13 +28,11 @@ public class DoorTrigger : MonoBehaviour
             return;
         }
 
-        // Load the requested scene by name. Make sure the scene is added to Build Settings.
         SceneManager.LoadScene(sceneToLoad);
     }
 
     private void OnDrawGizmosSelected()
     {
-        // Draw a small icon in the editor so it's easier to find door triggers
         Gizmos.color = Color.cyan;
         Gizmos.DrawWireCube(transform.position, Vector3.one * 0.2f);
     }
