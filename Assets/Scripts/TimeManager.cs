@@ -24,6 +24,14 @@ public class TimeManager : MonoBehaviour
 
     [Header("Time Slow Settings")]
     [SerializeField] [Range(0.1f, 1f)] private float slowMotionTimeScale = 0.5f;
+    [SerializeField] private float slowMotionMoveSpeedMultiplier = 1.25f;
+
+    public bool IsSlowMotionActive { get { return isSlowMotionActive; } }
+    public float SlowMotionMoveMultiplier { get { return slowMotionMoveSpeedMultiplier; } }
+
+    public void SetSlowMotionMoveMultiplier(float multiplier) { slowMotionMoveSpeedMultiplier = multiplier; }
+    public void AddMaxStamina(float amount) { maxStamina += amount; currentStamina = Mathf.Min(currentStamina + amount, maxStamina); }
+    public float GetMaxStamina() { return maxStamina; }
     
     [Header("Stamina Settings")]
     [SerializeField] private float maxStamina = 100f;
@@ -40,6 +48,10 @@ public class TimeManager : MonoBehaviour
 
     [SerializeField] [Range(0f, 1f)] private float hitstopTimeScale = 0.05f;
 
+    // Track overlapping hitstops so multiple calls don't incorrectly restore the timescale
+    private int activeHitstops = 0;
+    private float baselineTimeScale = 1f;
+
     public void DoHitstop(float duration = -1f)
     {
         if (duration <= 0f)
@@ -48,12 +60,25 @@ public class TimeManager : MonoBehaviour
         StartCoroutine(Hitstop(duration));
     }
 
-    private IEnumerator Hitstop(float duration)
+    private System.Collections.IEnumerator Hitstop(float duration)
     {
-        float previousTimeScale = Time.timeScale;
-        Time.timeScale = hitstopTimeScale;
+        // If this is the first active hitstop, capture the current timescale as the baseline
+        activeHitstops++;
+        if (activeHitstops == 1)
+        {
+            baselineTimeScale = Time.timeScale;
+            Time.timeScale = hitstopTimeScale;
+        }
+
         yield return new WaitForSecondsRealtime(duration);
-        Time.timeScale = previousTimeScale;
+
+        activeHitstops = Mathf.Max(0, activeHitstops - 1);
+
+        // Only restore when the last overlapping hitstop finishes
+        if (activeHitstops == 0)
+        {
+            Time.timeScale = baselineTimeScale;
+        }
     }
 
     private void Awake()

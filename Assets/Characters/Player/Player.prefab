@@ -277,6 +277,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
   maxHealth: 3
+  shieldCount: 0
   invincibilityDuration: 1
   invincibilityBlinkRate: 0.1
   animator: {fileID: 5087095678848216286}

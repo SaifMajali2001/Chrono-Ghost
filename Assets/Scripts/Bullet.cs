@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    public float bulletLife = 1f;
+    public float bulletLife = 3f;
     public float speed = 1f;
     public float rotationSpeed = 0f;
     public float damage = 1f;

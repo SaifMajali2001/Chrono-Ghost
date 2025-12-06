@@ -9,6 +9,10 @@ public class PlayerHealth : MonoBehaviour
     public float maxHealth = 100f;
     private float currentHealth;
 
+    [Header("Shield")]
+    public int shieldCount = 0;
+    public void AddShields(int amount) { shieldCount += amount; }
+
     [Header("Invincibility")]
     public float invincibilityDuration = 1f;
     public float invincibilityBlinkRate = 0.1f;
@@ -24,16 +28,37 @@ public class PlayerHealth : MonoBehaviour
 
     void Awake()
     {
-        currentHealth = maxHealth;
         if (animator == null)
             animator = GetComponent<Animator>();
         
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
+    void Start()
+    {
+        // Check if there's persisted health from a previous scene
+        var persistence = HealthPersistenceManager.Instance;
+        if (persistence != null && persistence.storedCurrentHealth > 0)
+        {
+            // Restore from saved state (player is transitioning between levels)
+            persistence.RestoreHealth(this);
+        }
+        else
+        {
+            // First load or hub reset — use full health
+            currentHealth = maxHealth;
+        }
+    }
+
     public void TakeDamage(float amount)
     {
         if (isDead || isInvincible) return;
+
+        if (shieldCount > 0)
+        {
+            shieldCount--;
+            return;
+        }
 
         currentHealth -= amount;
         currentHealth = Mathf.Max(0f, currentHealth);
@@ -103,9 +128,10 @@ public class PlayerHealth : MonoBehaviour
     private IEnumerator RestartSequence()
     {
         yield return new WaitForSeconds(restartDelay);
-
         SceneManager.LoadScene(hubSceneName);
     }
+
+    // Respawn is now handled by SavePointManager during sceneLoaded; prior coroutine removed.
 
     public float GetHealthPercentage()
     {
@@ -113,4 +139,18 @@ public class PlayerHealth : MonoBehaviour
     }
 
     public float CurrentHealth => currentHealth;
+
+    public void SetCurrentHealth(float health)
+    {
+        currentHealth = Mathf.Clamp(health, 0f, maxHealth);
+    }
+
+    private void OnDisable()
+    {
+        // Save health before scene unload (when player exits a level)
+        if (!isDead)
+        {
+            HealthPersistenceManager.Instance?.SaveHealth(currentHealth, maxHealth, shieldCount);
+        }
+    }
 }

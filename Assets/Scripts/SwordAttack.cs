@@ -62,10 +62,14 @@ public class SwordAttack : MonoBehaviour
 
         TimeManager.Instance.DoHitstop();
 
+        // Prefer an existing FlashEffect component. Adding components at runtime
+        // on many simultaneous deaths can cause allocation spikes; only flash
+        // if the component already exists on the enemy.
         FlashEffect flashEffect = enemy.GetComponent<FlashEffect>();
-        if (flashEffect == null)
-            flashEffect = enemy.gameObject.AddComponent<FlashEffect>();
-        flashEffect.Flash();
+        if (flashEffect != null)
+        {
+            flashEffect.Flash();
+        }
     }
 
     private void StartAttack(bool toRight)

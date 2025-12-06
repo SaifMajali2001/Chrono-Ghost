@@ -60,16 +60,21 @@ public class PlayerController : MonoBehaviour
     
     private bool TryMove(Vector2 direction)
     {
-        
+        float currentSpeed = movespeed;
+        if (TimeManager.Instance != null && TimeManager.Instance.IsSlowMotionActive)
+        {
+            currentSpeed *= TimeManager.Instance.SlowMotionMoveMultiplier;
+        }
+
         int count = rb.Cast(
             direction,
             movementFilter,
             castCollisions,
-            movespeed * Time.fixedDeltaTime + collisionOffset);
+            currentSpeed * Time.fixedDeltaTime + collisionOffset);
 
         if (count == 0)
         {
-            rb.MovePosition(rb.position + direction * movespeed * Time.fixedDeltaTime);
+            rb.MovePosition(rb.position + direction * currentSpeed * Time.fixedDeltaTime);
             return true;
         }
         else
